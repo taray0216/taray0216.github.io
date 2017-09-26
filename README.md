@@ -1,3 +1,0 @@
-# TA Ray
-
-### DeepLearning
